@@ -2,7 +2,7 @@
 
 
 ## Cookiecutter Data Science
-This project template was copied from [Data Lumina](https://github.com/datalumina) who created a simplified version of the [Cookiecutter Data Science](https://cookiecutter-data-science.drivendata.org) template. 
+This project template was copied from [Datalumina](https://github.com/datalumina) who created a simplified version of the [Cookiecutter Data Science](https://cookiecutter-data-science.drivendata.org) template. 
 
 ## Adjusting .gitignore
 
