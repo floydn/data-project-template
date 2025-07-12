@@ -6,14 +6,14 @@ This project template was copied from [Datalumina](https://github.com/datalumina
 
 ## Adjusting .gitignore
 
-Ensure you adjust the `.gitignore` file according to your project needs. For example, since this is a template, the `/data/` folder is commented out and data will not be exlucded from source control:
+Ensure you adjust the `.gitignore` file according to your project needs. For example, the `/data/` folder is exlucded from source control:
 
 ```plaintext
 # exclude data from source control by default
-# /data/
+/data/
 ```
 
-Typically, you want to exclude this folder if it contains either sensitive data that you do not want to add to version control or large files.
+Typically, you want to exclude this folder if it contains either sensitive data or large files.
 
 ## Duplicating the .env File
 To set up your environment variables, you need to duplicate the `.env.example` file and rename it to `.env`. You can do this manually or using the following terminal command:
